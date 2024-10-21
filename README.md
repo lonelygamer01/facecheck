@@ -16,6 +16,6 @@ Choose how strict the comparison should be
 
 ![Screenshot from 2024-10-21 22-44-43](https://github.com/user-attachments/assets/d3ebd2b3-09fa-4f86-9c64-7fd98877f88d)
 
-The script will go through every picture and examine them, later listing the the images which are apply to the value give before.
+The script will go through every picture and examine them, later listing the the images which are apply to the value give before. The lower the distance higher the chance the faces are matching.
 
 ![Screenshot from 2024-10-21 22-47-00](https://github.com/user-attachments/assets/dd246b12-c579-4ce5-bd2f-94a15a7f11de)
